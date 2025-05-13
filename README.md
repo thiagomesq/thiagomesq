@@ -34,25 +34,21 @@ Hello! I'm Thiago Mesquita, a developer passionate about technology with experie
 ## Featured Repositories
 
 ### [Foundry Fund Me](https://github.com/thiagomesq/foundry-fund-me)
-![Demo of Foundry Fund Me](https://via.placeholder.com/600x300)  
 - **Description**: Smart contract project for managing crowdfunding.
 - **Why It's Special**: Enables secure and fast decentralized crowdfunding transactions.
 - **Languages**: Solidity (87.3%), Makefile (12.7%).
 
 ### [DIOToken](https://github.com/thiagomesq/DIOToken)
-![Demo of DIOToken](https://via.placeholder.com/600x300)  
 - **Description**: Documentation and implementation of an ERC20 token with specific functionalities.
 - **Why It's Special**: A great example of customized token creation in blockchain.
 - **Languages**: JavaScript (50.6%), Solidity (49.4%).
 
 ### [Foundry Smart Contract Lottery](https://github.com/thiagomesq/foundry-smart-contract-lottery)
-![Demo of Foundry Smart Contract Lottery](https://via.placeholder.com/600x300)  
 - **Description**: Decentralized lottery based on smart contracts.
 - **Why It's Special**: Combines randomness and decentralization to create a reliable lottery.
 - **Languages**: Solidity (94.6%), Makefile (5.4%).
 
 ### [Loccon](https://github.com/thiagomesq/loccon)
-![Demo of Loccon](https://via.placeholder.com/600x300)  
 - **Description**: Flutter-based project for container rental management.
 - **Why It's Special**: Provides an innovative solution for logistics management.
 - **Languages**: Dart (84%), C++ (7.8%), CMake (6%), Swift (0.9%), HTML (0.6%), C (0.5%).
@@ -62,8 +58,7 @@ Hello! I'm Thiago Mesquita, a developer passionate about technology with experie
 ## My Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomesq&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomesq&layout=compact&theme=radical)
-![Contribution Streak](https://github-readme-stats.vercel.app/api?username=thiagomesq&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thiagomesq&layout=compact&theme=radical)
 
 ---
 
