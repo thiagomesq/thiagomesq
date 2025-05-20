@@ -53,6 +53,16 @@ Hello! I'm Thiago Mesquita, a developer passionate about technology with experie
 - **Why It's Special**: Provides an innovative solution for logistics management.
 - **Languages**: Dart (84%), C++ (7.8%), CMake (6%), Swift (0.9%), HTML (0.6%), C (0.5%).
 
+### [Foundry ERC20](https://github.com/thiagomesq/foundry-erc20)
+- **Description**: Implementation of an ERC20 token with custom functionalities and smart contract patterns.
+- **Why It's Special**: Demonstrates advanced ERC20 features and contract management using Solidity and Makefile.
+- **Languages**: Solidity (65.4%), Makefile (34.6%).
+
+### [Foundry NFT](https://github.com/thiagomesq/foundry-nft)
+- **Description**: Smart contract project for creating and managing NFTs (Non-Fungible Tokens) using Foundry.
+- **Why It's Special**: Showcases best practices for NFT development and contract deployment with a strong focus on Solidity.
+- **Languages**: Solidity (90.5%), Makefile (9.5%).
+
 ---
 
 ## My Statistics
@@ -118,6 +128,16 @@ Olá! Sou Thiago Mesquita, desenvolvedor apaixonado por tecnologia e com experi�
 - **Descrição**: Projeto baseado em Flutter para controle de locação de containers.
 - **Por Que é Especial?**: Solução inovadora para gestão logística.
 - **Linguagens**: Dart (84%), C++ (7.8%), CMake (6%), Swift (0.9%), HTML (0.6%), C (0.5%).
+
+### [Foundry ERC20](https://github.com/thiagomesq/foundry-erc20)
+- **Descrição**: Implementação de um token ERC20 com funcionalidades personalizadas e padrões avançados de contratos inteligentes.
+- **Por Que é Especial?**: Demonstra recursos avançados de ERC20 e gestão de contratos usando Solidity e Makefile.
+- **Linguagens**: Solidity (65.4%), Makefile (34.6%).
+
+### [Foundry NFT](https://github.com/thiagomesq/foundry-nft)
+- **Descrição**: Projeto de contrato inteligente para criação e gestão de NFTs (Tokens Não Fungíveis) usando Foundry.
+- **Por Que é Especial?**: Apresenta boas práticas para desenvolvimento de NFTs e deploy de contratos, com forte uso de Solidity.
+- **Linguagens**: Solidity (90.5%), Makefile (9.5%).
 
 ---
 
