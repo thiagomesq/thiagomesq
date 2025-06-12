@@ -8,30 +8,39 @@ Hello! I'm Thiago Mesquita, a developer passionate about technology with experie
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%230A0FFF.svg?style=flat-square&logo=devops&logoColor=white)
 
 - **Programming Languages**:
   - **Solidity**: Experience in developing smart contracts.
-  - **JavaScript**: Used for front-end development and blockchain integration.
+  - **JavaScript/TypeScript**: Used for front-end development and blockchain integration.
   - **Dart**: Mobile application development with Flutter.
   - **C++**, **C**, **Swift**: Complementary experience with low-level languages.
 
 - **Tools and Frameworks**:
   - **Foundry**: Tool for smart contract development and testing.
+  - **Next.js**: Modern React framework for web applications.
   - **Makefile**: Used for project task automation.
   - **Flutter**: Framework for mobile application development.
-  - **Web3.js and Ethers.js**: Libraries for blockchain integration.
+  - **Viem, Wagmi**: Libraries for blockchain integration.
 
 - **Areas of Expertise**:
   - Smart Contract Development.
   - Decentralized Applications (dApps).
+  - Web3 Frontend Development.
   - Automation and DevOps.
   - Mobile Development.
 
 ---
 
 ## Featured Repositories
+
+### [TSender UI](https://github.com/thiagomesq/ts-tsender-ui)
+- **Description**: Modern web interface for performing ERC-20 token airdrops efficiently and securely.
+- **Why It's Special**: Complete dApp demonstrating effective integration between traditional frontend development and Web3 technologies.
+- **Languages**: TypeScript (99.1%).
+- **Key Features**: RainbowKit wallet integration, batch token distribution, responsive design with Tailwind CSS.
 
 ### [Foundry Fund Me](https://github.com/thiagomesq/foundry-fund-me)
 - **Description**: Smart contract project for managing crowdfunding.
@@ -84,30 +93,39 @@ Olá! Sou Thiago Mesquita, desenvolvedor apaixonado por tecnologia e com experi�
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%230A0FFF.svg?style=flat-square&logo=devops&logoColor=white)
 
 - **Linguagens de Programação**:
   - **Solidity**: Experiência em desenvolvimento de contratos inteligentes (Smart Contracts).
-  - **JavaScript**: Utilizado para desenvolvimento de front-end e integração com blockchain.
+  - **JavaScript/TypeScript**: Utilizado para desenvolvimento de front-end e integração com blockchain.
   - **Dart**: Desenvolvimento de aplicativos móveis com Flutter.
   - **C++**, **C**, **Swift**: Experiência complementar em linguagens de baixo nível.
 
 - **Ferramentas e Frameworks**:
   - **Foundry**: Ferramenta para desenvolvimento e testes de contratos inteligentes.
+  - **Next.js**: Framework React moderno para aplicações web.
   - **Makefile**: Utilizado para automação de tarefas em projetos.
   - **Flutter**: Framework para desenvolvimento de aplicativos móveis.
-  - **Web3.js e Ethers.js**: Bibliotecas para integração com blockchain.
+  - **Viem, Wagmi**: Bibliotecas para integração com blockchain.
 
 - **Áreas de Atuação**:
   - Desenvolvimento de Smart Contracts.
   - Aplicações descentralizadas (dApps).
+  - Desenvolvimento Frontend Web3.
   - Automação e DevOps.
   - Desenvolvimento Mobile e Web.
 
 ---
 
 ## Principais Repositórios
+
+### [TSender UI](https://github.com/thiagomesq/ts-tsender-ui)
+- **Descrição**: Interface web moderna para realizar airdrops de tokens ERC-20 de forma eficiente e segura.
+- **Por Que é Especial?**: dApp completa demonstrando integração eficaz entre desenvolvimento frontend tradicional e tecnologias Web3.
+- **Linguagens**: TypeScript (99.1%).
+- **Características Principais**: Integração com carteiras via RainbowKit, distribuição de tokens em batch, design responsivo com Tailwind CSS.
 
 ### [Foundry Fund Me](https://github.com/thiagomesq/foundry-fund-me)
 - **Descrição**: Projeto de um contrato inteligente que gerencia financiamento coletivo.
