@@ -36,6 +36,12 @@ Hello! I'm Thiago Mesquita, a developer passionate about technology with experie
 
 ## Featured Repositories
 
+### [Flash Bootcamp DApp](https://github.com/thiagomesq/flash-bootcamp-dapp)
+- **Description**: Decentralized task manager DApp with ETH staking, built with Next.js, TypeScript, Wagmi, and Tailwind CSS.
+- **Why It's Special**: Allows users to create, complete, and manage tasks with blockchain-based incentives. Features ETH staking, real-time blockchain event monitoring, multi-chain support, and a modern responsive interface.
+- **Languages**: TypeScript (95%), CSS (4.5%), JavaScript (0.5%).
+- **Key Features**: Task creation with stake, automatic reward upon completion, dark/light theme, multiple network support, and a clean, event-driven architecture.
+
 ### [TSender UI](https://github.com/thiagomesq/ts-tsender-ui)
 - **Description**: Modern web interface for performing ERC-20 token airdrops efficiently and securely.
 - **Why It's Special**: Complete dApp demonstrating effective integration between traditional frontend development and Web3 technologies.
@@ -120,6 +126,12 @@ Olá! Sou Thiago Mesquita, desenvolvedor apaixonado por tecnologia e com experi�
 ---
 
 ## Principais Repositórios
+
+### [Flash Bootcamp DApp](https://github.com/thiagomesq/flash-bootcamp-dapp)
+- **Descrição**: DApp descentralizada para gerenciamento de tarefas pessoais com sistema de stake em ETH, construída com Next.js, TypeScript, Wagmi e Tailwind CSS.
+- **Por Que é Especial?**: Permite criar, completar e gerenciar tarefas com incentivos na blockchain. Traz stake em ETH, monitoramento de eventos em tempo real, suporte a múltiplas redes e interface responsiva e moderna.
+- **Linguagens**: TypeScript (95%), CSS (4.5%), JavaScript (0.5%).
+- **Características Principais**: Criação de tarefas com stake, recompensa automática na conclusão, tema escuro/claro, suporte a múltiplas redes e arquitetura limpa baseada em eventos.
 
 ### [TSender UI](https://github.com/thiagomesq/ts-tsender-ui)
 - **Descrição**: Interface web moderna para realizar airdrops de tokens ERC-20 de forma eficiente e segura.
